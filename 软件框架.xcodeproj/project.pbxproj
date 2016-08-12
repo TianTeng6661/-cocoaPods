@@ -7,15 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3A42C22CAAB4267621D8F43E /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F9A5BB21C254419BC780D8B /* libPods.a */; };
-		61692FCD1D5D72150027B12D /* NSString+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 61692FBE1D5D72150027B12D /* NSString+Extension.m */; };
-		61692FCE1D5D72150027B12D /* trade.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 61692FC01D5D72150027B12D /* trade.bundle */; };
-		61692FCF1D5D72150027B12D /* UIAlertView+Quick.m in Sources */ = {isa = PBXBuildFile; fileRef = 61692FC21D5D72150027B12D /* UIAlertView+Quick.m */; };
-		61692FD01D5D72150027B12D /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 61692FC41D5D72150027B12D /* UIView+Extension.m */; };
-		61692FD11D5D72150027B12D /* ZCAudioTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 61692FC61D5D72150027B12D /* ZCAudioTool.m */; };
-		61692FD21D5D72150027B12D /* ZCTradeInputView.m in Sources */ = {isa = PBXBuildFile; fileRef = 61692FC81D5D72150027B12D /* ZCTradeInputView.m */; };
-		61692FD31D5D72150027B12D /* ZCTradeKeyboard.m in Sources */ = {isa = PBXBuildFile; fileRef = 61692FCA1D5D72150027B12D /* ZCTradeKeyboard.m */; };
-		61692FD41D5D72150027B12D /* ZCTradeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 61692FCC1D5D72150027B12D /* ZCTradeView.m */; };
 		61A0CA071D3DAE6800916E9C /* AFNetManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 61A0CA061D3DAE6800916E9C /* AFNetManager.m */; };
 		61A0CA0C1D3DB58A00916E9C /* LZUseInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 61A0CA0B1D3DB58A00916E9C /* LZUseInfo.m */; };
 		61A0CA111D3DC7F200916E9C /* MBProgressHUD+HM.m in Sources */ = {isa = PBXBuildFile; fileRef = 61A0CA0F1D3DC7F200916E9C /* MBProgressHUD+HM.m */; };
@@ -49,14 +40,15 @@
 		61B826FA1D0544A200928EB4 /* Y1.png in Resources */ = {isa = PBXBuildFile; fileRef = 61B826F71D0544A200928EB4 /* Y1.png */; };
 		61B826FB1D0544A200928EB4 /* Y2.png in Resources */ = {isa = PBXBuildFile; fileRef = 61B826F81D0544A200928EB4 /* Y2.png */; };
 		61B826FC1D0544A200928EB4 /* Y3.png in Resources */ = {isa = PBXBuildFile; fileRef = 61B826F91D0544A200928EB4 /* Y3.png */; };
-		61DC61191D5DA4E1002FC93E /* NSString+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 61DC610A1D5DA4E1002FC93E /* NSString+Extension.m */; };
-		61DC611A1D5DA4E1002FC93E /* trade.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 61DC610C1D5DA4E1002FC93E /* trade.bundle */; };
-		61DC611B1D5DA4E1002FC93E /* UIAlertView+Quick.m in Sources */ = {isa = PBXBuildFile; fileRef = 61DC610E1D5DA4E1002FC93E /* UIAlertView+Quick.m */; };
-		61DC611C1D5DA4E1002FC93E /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 61DC61101D5DA4E1002FC93E /* UIView+Extension.m */; };
-		61DC611D1D5DA4E1002FC93E /* ZCAudioTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 61DC61121D5DA4E1002FC93E /* ZCAudioTool.m */; };
-		61DC611E1D5DA4E1002FC93E /* ZCTradeInputView.m in Sources */ = {isa = PBXBuildFile; fileRef = 61DC61141D5DA4E1002FC93E /* ZCTradeInputView.m */; };
-		61DC611F1D5DA4E1002FC93E /* ZCTradeKeyboard.m in Sources */ = {isa = PBXBuildFile; fileRef = 61DC61161D5DA4E1002FC93E /* ZCTradeKeyboard.m */; };
-		61DC61201D5DA4E1002FC93E /* ZCTradeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 61DC61181D5DA4E1002FC93E /* ZCTradeView.m */; };
+		61C2F49A1D5DB2CD0057D063 /* NSString+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 61C2F48B1D5DB2CD0057D063 /* NSString+Extension.m */; };
+		61C2F49B1D5DB2CD0057D063 /* trade.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 61C2F48D1D5DB2CD0057D063 /* trade.bundle */; };
+		61C2F49C1D5DB2CD0057D063 /* UIAlertView+Quick.m in Sources */ = {isa = PBXBuildFile; fileRef = 61C2F48F1D5DB2CD0057D063 /* UIAlertView+Quick.m */; };
+		61C2F49D1D5DB2CD0057D063 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 61C2F4911D5DB2CD0057D063 /* UIView+Extension.m */; };
+		61C2F49E1D5DB2CD0057D063 /* ZCAudioTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 61C2F4931D5DB2CD0057D063 /* ZCAudioTool.m */; };
+		61C2F49F1D5DB2CD0057D063 /* ZCTradeInputView.m in Sources */ = {isa = PBXBuildFile; fileRef = 61C2F4951D5DB2CD0057D063 /* ZCTradeInputView.m */; };
+		61C2F4A01D5DB2CD0057D063 /* ZCTradeKeyboard.m in Sources */ = {isa = PBXBuildFile; fileRef = 61C2F4971D5DB2CD0057D063 /* ZCTradeKeyboard.m */; };
+		61C2F4A11D5DB2CD0057D063 /* ZCTradeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 61C2F4991D5DB2CD0057D063 /* ZCTradeView.m */; };
+		A938A1A8F44C6E6F4D29B8CD /* libPods-软件框架.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 78F8607BDAB4F984BB681879 /* libPods-软件框架.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,23 +69,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0F9A5BB21C254419BC780D8B /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		61692FBD1D5D72150027B12D /* NSString+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Extension.h"; sourceTree = "<group>"; };
-		61692FBE1D5D72150027B12D /* NSString+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Extension.m"; sourceTree = "<group>"; };
-		61692FBF1D5D72150027B12D /* Singleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Singleton.h; sourceTree = "<group>"; };
-		61692FC01D5D72150027B12D /* trade.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = trade.bundle; sourceTree = "<group>"; };
-		61692FC11D5D72150027B12D /* UIAlertView+Quick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIAlertView+Quick.h"; sourceTree = "<group>"; };
-		61692FC21D5D72150027B12D /* UIAlertView+Quick.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIAlertView+Quick.m"; sourceTree = "<group>"; };
-		61692FC31D5D72150027B12D /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
-		61692FC41D5D72150027B12D /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
-		61692FC51D5D72150027B12D /* ZCAudioTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCAudioTool.h; sourceTree = "<group>"; };
-		61692FC61D5D72150027B12D /* ZCAudioTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCAudioTool.m; sourceTree = "<group>"; };
-		61692FC71D5D72150027B12D /* ZCTradeInputView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCTradeInputView.h; sourceTree = "<group>"; };
-		61692FC81D5D72150027B12D /* ZCTradeInputView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCTradeInputView.m; sourceTree = "<group>"; };
-		61692FC91D5D72150027B12D /* ZCTradeKeyboard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCTradeKeyboard.h; sourceTree = "<group>"; };
-		61692FCA1D5D72150027B12D /* ZCTradeKeyboard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCTradeKeyboard.m; sourceTree = "<group>"; };
-		61692FCB1D5D72150027B12D /* ZCTradeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCTradeView.h; sourceTree = "<group>"; };
-		61692FCC1D5D72150027B12D /* ZCTradeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCTradeView.m; sourceTree = "<group>"; };
 		61A0CA051D3DAE6800916E9C /* AFNetManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetManager.h; sourceTree = "<group>"; };
 		61A0CA061D3DAE6800916E9C /* AFNetManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFNetManager.m; sourceTree = "<group>"; };
 		61A0CA091D3DB58A00916E9C /* Singleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Singleton.h; sourceTree = "<group>"; };
@@ -153,24 +128,25 @@
 		61B826F71D0544A200928EB4 /* Y1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Y1.png; sourceTree = "<group>"; };
 		61B826F81D0544A200928EB4 /* Y2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Y2.png; sourceTree = "<group>"; };
 		61B826F91D0544A200928EB4 /* Y3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Y3.png; sourceTree = "<group>"; };
-		61DC61091D5DA4E1002FC93E /* NSString+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Extension.h"; sourceTree = "<group>"; };
-		61DC610A1D5DA4E1002FC93E /* NSString+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Extension.m"; sourceTree = "<group>"; };
-		61DC610B1D5DA4E1002FC93E /* Singleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Singleton.h; sourceTree = "<group>"; };
-		61DC610C1D5DA4E1002FC93E /* trade.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = trade.bundle; sourceTree = "<group>"; };
-		61DC610D1D5DA4E1002FC93E /* UIAlertView+Quick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIAlertView+Quick.h"; sourceTree = "<group>"; };
-		61DC610E1D5DA4E1002FC93E /* UIAlertView+Quick.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIAlertView+Quick.m"; sourceTree = "<group>"; };
-		61DC610F1D5DA4E1002FC93E /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
-		61DC61101D5DA4E1002FC93E /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
-		61DC61111D5DA4E1002FC93E /* ZCAudioTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCAudioTool.h; sourceTree = "<group>"; };
-		61DC61121D5DA4E1002FC93E /* ZCAudioTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCAudioTool.m; sourceTree = "<group>"; };
-		61DC61131D5DA4E1002FC93E /* ZCTradeInputView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCTradeInputView.h; sourceTree = "<group>"; };
-		61DC61141D5DA4E1002FC93E /* ZCTradeInputView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCTradeInputView.m; sourceTree = "<group>"; };
-		61DC61151D5DA4E1002FC93E /* ZCTradeKeyboard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCTradeKeyboard.h; sourceTree = "<group>"; };
-		61DC61161D5DA4E1002FC93E /* ZCTradeKeyboard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCTradeKeyboard.m; sourceTree = "<group>"; };
-		61DC61171D5DA4E1002FC93E /* ZCTradeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCTradeView.h; sourceTree = "<group>"; };
-		61DC61181D5DA4E1002FC93E /* ZCTradeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCTradeView.m; sourceTree = "<group>"; };
-		987045BE1F2DE5DC8CF44CC6 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
-		C01258A077C4F3903C4DF320 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		61C2F48A1D5DB2CD0057D063 /* NSString+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Extension.h"; sourceTree = "<group>"; };
+		61C2F48B1D5DB2CD0057D063 /* NSString+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Extension.m"; sourceTree = "<group>"; };
+		61C2F48C1D5DB2CD0057D063 /* Singleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Singleton.h; sourceTree = "<group>"; };
+		61C2F48D1D5DB2CD0057D063 /* trade.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = trade.bundle; sourceTree = "<group>"; };
+		61C2F48E1D5DB2CD0057D063 /* UIAlertView+Quick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIAlertView+Quick.h"; sourceTree = "<group>"; };
+		61C2F48F1D5DB2CD0057D063 /* UIAlertView+Quick.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIAlertView+Quick.m"; sourceTree = "<group>"; };
+		61C2F4901D5DB2CD0057D063 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
+		61C2F4911D5DB2CD0057D063 /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
+		61C2F4921D5DB2CD0057D063 /* ZCAudioTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCAudioTool.h; sourceTree = "<group>"; };
+		61C2F4931D5DB2CD0057D063 /* ZCAudioTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCAudioTool.m; sourceTree = "<group>"; };
+		61C2F4941D5DB2CD0057D063 /* ZCTradeInputView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCTradeInputView.h; sourceTree = "<group>"; };
+		61C2F4951D5DB2CD0057D063 /* ZCTradeInputView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCTradeInputView.m; sourceTree = "<group>"; };
+		61C2F4961D5DB2CD0057D063 /* ZCTradeKeyboard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCTradeKeyboard.h; sourceTree = "<group>"; };
+		61C2F4971D5DB2CD0057D063 /* ZCTradeKeyboard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCTradeKeyboard.m; sourceTree = "<group>"; };
+		61C2F4981D5DB2CD0057D063 /* ZCTradeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCTradeView.h; sourceTree = "<group>"; };
+		61C2F4991D5DB2CD0057D063 /* ZCTradeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCTradeView.m; sourceTree = "<group>"; };
+		78F8607BDAB4F984BB681879 /* libPods-软件框架.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-软件框架.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F59378589A86646BEB875F0 /* Pods-软件框架.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-软件框架.release.xcconfig"; path = "Pods/Target Support Files/Pods-软件框架/Pods-软件框架.release.xcconfig"; sourceTree = "<group>"; };
+		CC13BE4442974707944AF4F7 /* Pods-软件框架.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-软件框架.debug.xcconfig"; path = "Pods/Target Support Files/Pods-软件框架/Pods-软件框架.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -178,7 +154,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A42C22CAAB4267621D8F43E /* libPods.a in Frameworks */,
+				A938A1A8F44C6E6F4D29B8CD /* libPods-软件框架.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -199,41 +175,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1012EE8D195BF713C63675CA /* Frameworks */ = {
+		21295266560FFFEAACC7E950 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				0F9A5BB21C254419BC780D8B /* libPods.a */,
+				78F8607BDAB4F984BB681879 /* libPods-软件框架.a */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		61692FBC1D5D72150027B12D /* ZCTradeView */ = {
-			isa = PBXGroup;
-			children = (
-				61692FBD1D5D72150027B12D /* NSString+Extension.h */,
-				61692FBE1D5D72150027B12D /* NSString+Extension.m */,
-				61692FBF1D5D72150027B12D /* Singleton.h */,
-				61692FC01D5D72150027B12D /* trade.bundle */,
-				61692FC11D5D72150027B12D /* UIAlertView+Quick.h */,
-				61692FC21D5D72150027B12D /* UIAlertView+Quick.m */,
-				61692FC31D5D72150027B12D /* UIView+Extension.h */,
-				61692FC41D5D72150027B12D /* UIView+Extension.m */,
-				61692FC51D5D72150027B12D /* ZCAudioTool.h */,
-				61692FC61D5D72150027B12D /* ZCAudioTool.m */,
-				61692FC71D5D72150027B12D /* ZCTradeInputView.h */,
-				61692FC81D5D72150027B12D /* ZCTradeInputView.m */,
-				61692FC91D5D72150027B12D /* ZCTradeKeyboard.h */,
-				61692FCA1D5D72150027B12D /* ZCTradeKeyboard.m */,
-				61692FCB1D5D72150027B12D /* ZCTradeView.h */,
-				61692FCC1D5D72150027B12D /* ZCTradeView.m */,
-			);
-			path = ZCTradeView;
 			sourceTree = "<group>";
 		};
 		61A0CA031D3DAE0700916E9C /* Tools */ = {
 			isa = PBXGroup;
 			children = (
-				61692FBC1D5D72150027B12D /* ZCTradeView */,
+				61C2F4891D5DB2CD0057D063 /* ZCTradeView */,
 				61A0CA131D3DC94E00916E9C /* Categories */,
 				61A0CA0D1D3DC7DA00916E9C /* HUB */,
 				61A0CA081D3DB55C00916E9C /* Common */,
@@ -289,8 +242,8 @@
 				61B826921D0508A400928EB4 /* 软件框架Tests */,
 				61B8269D1D0508A400928EB4 /* 软件框架UITests */,
 				61B826771D0508A400928EB4 /* Products */,
-				E5AC9BB9086250F24876EB81 /* Pods */,
-				1012EE8D195BF713C63675CA /* Frameworks */,
+				F8620BE0B287D656EFC0D89C /* Pods */,
+				21295266560FFFEAACC7E950 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -307,7 +260,6 @@
 		61B826781D0508A400928EB4 /* 软件框架 */ = {
 			isa = PBXGroup;
 			children = (
-				61DC61081D5DA4E1002FC93E /* ZCTradeView */,
 				61A0CA031D3DAE0700916E9C /* Tools */,
 				61B826D31D0515C400928EB4 /* Image */,
 				61B826C21D050C4A00928EB4 /* Classes */,
@@ -459,34 +411,34 @@
 			name = "首次引导页";
 			sourceTree = "<group>";
 		};
-		61DC61081D5DA4E1002FC93E /* ZCTradeView */ = {
+		61C2F4891D5DB2CD0057D063 /* ZCTradeView */ = {
 			isa = PBXGroup;
 			children = (
-				61DC61091D5DA4E1002FC93E /* NSString+Extension.h */,
-				61DC610A1D5DA4E1002FC93E /* NSString+Extension.m */,
-				61DC610B1D5DA4E1002FC93E /* Singleton.h */,
-				61DC610C1D5DA4E1002FC93E /* trade.bundle */,
-				61DC610D1D5DA4E1002FC93E /* UIAlertView+Quick.h */,
-				61DC610E1D5DA4E1002FC93E /* UIAlertView+Quick.m */,
-				61DC610F1D5DA4E1002FC93E /* UIView+Extension.h */,
-				61DC61101D5DA4E1002FC93E /* UIView+Extension.m */,
-				61DC61111D5DA4E1002FC93E /* ZCAudioTool.h */,
-				61DC61121D5DA4E1002FC93E /* ZCAudioTool.m */,
-				61DC61131D5DA4E1002FC93E /* ZCTradeInputView.h */,
-				61DC61141D5DA4E1002FC93E /* ZCTradeInputView.m */,
-				61DC61151D5DA4E1002FC93E /* ZCTradeKeyboard.h */,
-				61DC61161D5DA4E1002FC93E /* ZCTradeKeyboard.m */,
-				61DC61171D5DA4E1002FC93E /* ZCTradeView.h */,
-				61DC61181D5DA4E1002FC93E /* ZCTradeView.m */,
+				61C2F48A1D5DB2CD0057D063 /* NSString+Extension.h */,
+				61C2F48B1D5DB2CD0057D063 /* NSString+Extension.m */,
+				61C2F48C1D5DB2CD0057D063 /* Singleton.h */,
+				61C2F48D1D5DB2CD0057D063 /* trade.bundle */,
+				61C2F48E1D5DB2CD0057D063 /* UIAlertView+Quick.h */,
+				61C2F48F1D5DB2CD0057D063 /* UIAlertView+Quick.m */,
+				61C2F4901D5DB2CD0057D063 /* UIView+Extension.h */,
+				61C2F4911D5DB2CD0057D063 /* UIView+Extension.m */,
+				61C2F4921D5DB2CD0057D063 /* ZCAudioTool.h */,
+				61C2F4931D5DB2CD0057D063 /* ZCAudioTool.m */,
+				61C2F4941D5DB2CD0057D063 /* ZCTradeInputView.h */,
+				61C2F4951D5DB2CD0057D063 /* ZCTradeInputView.m */,
+				61C2F4961D5DB2CD0057D063 /* ZCTradeKeyboard.h */,
+				61C2F4971D5DB2CD0057D063 /* ZCTradeKeyboard.m */,
+				61C2F4981D5DB2CD0057D063 /* ZCTradeView.h */,
+				61C2F4991D5DB2CD0057D063 /* ZCTradeView.m */,
 			);
 			path = ZCTradeView;
 			sourceTree = "<group>";
 		};
-		E5AC9BB9086250F24876EB81 /* Pods */ = {
+		F8620BE0B287D656EFC0D89C /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				987045BE1F2DE5DC8CF44CC6 /* Pods.debug.xcconfig */,
-				C01258A077C4F3903C4DF320 /* Pods.release.xcconfig */,
+				CC13BE4442974707944AF4F7 /* Pods-软件框架.debug.xcconfig */,
+				8F59378589A86646BEB875F0 /* Pods-软件框架.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -498,12 +450,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 61B826A31D0508A400928EB4 /* Build configuration list for PBXNativeTarget "软件框架" */;
 			buildPhases = (
-				277DC4C4862B3ED7EC042050 /* Check Pods Manifest.lock */,
+				7FA0D19B1E5DDCE4255D60CB /* [CP] Check Pods Manifest.lock */,
 				61B826721D0508A400928EB4 /* Sources */,
 				61B826731D0508A400928EB4 /* Frameworks */,
 				61B826741D0508A400928EB4 /* Resources */,
-				BA82AFA684F09F0241AE79F7 /* Embed Pods Frameworks */,
-				D150AE38007C069FE4F0631A /* Copy Pods Resources */,
+				76CEA8F360C1A57FBCC4DE6D /* [CP] Embed Pods Frameworks */,
+				04DFE1F2E47CD09A0659067F /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -601,7 +553,7 @@
 				61B826891D0508A400928EB4 /* LaunchScreen.storyboard in Resources */,
 				61A0CA121D3DC7F200916E9C /* MBProgressHUD.bundle in Resources */,
 				61B826F41D0524A500928EB4 /* 4-4.png in Resources */,
-				61692FCE1D5D72150027B12D /* trade.bundle in Resources */,
+				61C2F49B1D5DB2CD0057D063 /* trade.bundle in Resources */,
 				61B826EE1D0524A500928EB4 /* 1-1.png in Resources */,
 				61B826F11D0524A500928EB4 /* 2.png in Resources */,
 				61B826F31D0524A500928EB4 /* 3.png in Resources */,
@@ -612,7 +564,6 @@
 				61B826F21D0524A500928EB4 /* 3-3.png in Resources */,
 				61B826841D0508A400928EB4 /* Main.storyboard in Resources */,
 				61B826FC1D0544A200928EB4 /* Y3.png in Resources */,
-				61DC611A1D5DA4E1002FC93E /* trade.bundle in Resources */,
 				61B826EF1D0524A500928EB4 /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -634,49 +585,49 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		277DC4C4862B3ED7EC042050 /* Check Pods Manifest.lock */ = {
+		04DFE1F2E47CD09A0659067F /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Check Pods Manifest.lock";
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-软件框架/Pods-软件框架-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		76CEA8F360C1A57FBCC4DE6D /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-软件框架/Pods-软件框架-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7FA0D19B1E5DDCE4255D60CB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		BA82AFA684F09F0241AE79F7 /* Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		D150AE38007C069FE4F0631A /* Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -687,31 +638,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				61A0CA191D3DC97700916E9C /* iKYLoadView.m in Sources */,
-				61DC611E1D5DA4E1002FC93E /* ZCTradeInputView.m in Sources */,
-				61692FD21D5D72150027B12D /* ZCTradeInputView.m in Sources */,
-				61DC611D1D5DA4E1002FC93E /* ZCAudioTool.m in Sources */,
-				61DC611C1D5DA4E1002FC93E /* UIView+Extension.m in Sources */,
-				61DC611B1D5DA4E1002FC93E /* UIAlertView+Quick.m in Sources */,
+				61C2F49F1D5DB2CD0057D063 /* ZCTradeInputView.m in Sources */,
 				61B826CC1D050D0500928EB4 /* SecondViewController.m in Sources */,
 				61B8267E1D0508A400928EB4 /* AppDelegate.m in Sources */,
 				61B826BA1D050AD400928EB4 /* GuidepagesViewController.m in Sources */,
 				61B826B41D050A2200928EB4 /* BaseBarViewController.m in Sources */,
-				61692FD11D5D72150027B12D /* ZCAudioTool.m in Sources */,
-				61DC61191D5DA4E1002FC93E /* NSString+Extension.m in Sources */,
-				61DC61201D5DA4E1002FC93E /* ZCTradeView.m in Sources */,
-				61DC611F1D5DA4E1002FC93E /* ZCTradeKeyboard.m in Sources */,
+				61C2F49E1D5DB2CD0057D063 /* ZCAudioTool.m in Sources */,
 				61B826B11D0509EC00928EB4 /* BaseNavViewController.m in Sources */,
-				61692FD31D5D72150027B12D /* ZCTradeKeyboard.m in Sources */,
-				61692FD01D5D72150027B12D /* UIView+Extension.m in Sources */,
+				61C2F4A01D5DB2CD0057D063 /* ZCTradeKeyboard.m in Sources */,
+				61C2F49D1D5DB2CD0057D063 /* UIView+Extension.m in Sources */,
 				61B826D21D050D2500928EB4 /* FourthViewController.m in Sources */,
 				61B826AE1D05099900928EB4 /* BaseViewController.m in Sources */,
 				61B826CF1D050D1500928EB4 /* ThredViewController.m in Sources */,
-				61692FCF1D5D72150027B12D /* UIAlertView+Quick.m in Sources */,
+				61C2F49C1D5DB2CD0057D063 /* UIAlertView+Quick.m in Sources */,
 				61A0CA0C1D3DB58A00916E9C /* LZUseInfo.m in Sources */,
 				61B8267B1D0508A400928EB4 /* main.m in Sources */,
 				61A0CA161D3DC96800916E9C /* NSString+size.m in Sources */,
-				61692FD41D5D72150027B12D /* ZCTradeView.m in Sources */,
-				61692FCD1D5D72150027B12D /* NSString+Extension.m in Sources */,
+				61C2F4A11D5DB2CD0057D063 /* ZCTradeView.m in Sources */,
+				61C2F49A1D5DB2CD0057D063 /* NSString+Extension.m in Sources */,
 				61A0CA111D3DC7F200916E9C /* MBProgressHUD+HM.m in Sources */,
 				61B826B71D050A8B00928EB4 /* OtherNavViewController.m in Sources */,
 				61A0CA071D3DAE6800916E9C /* AFNetManager.m in Sources */,
@@ -854,7 +798,7 @@
 		};
 		61B826A41D0508A400928EB4 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 987045BE1F2DE5DC8CF44CC6 /* Pods.debug.xcconfig */;
+			baseConfigurationReference = CC13BE4442974707944AF4F7 /* Pods-软件框架.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "软件框架/Info.plist";
@@ -867,7 +811,7 @@
 		};
 		61B826A51D0508A400928EB4 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C01258A077C4F3903C4DF320 /* Pods.release.xcconfig */;
+			baseConfigurationReference = 8F59378589A86646BEB875F0 /* Pods-软件框架.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "软件框架/Info.plist";
